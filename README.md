@@ -7,6 +7,8 @@ The course consists of two parts. The first four weeks are dedicated to diving i
 ### Practical Information
 There are lectures on **Tuesdays** and **Thursdays** from **18.00** until **20.00**. The Google calendar with the schedule of the course is available [here](https://calendar.google.com/calendar/r/month/2019/11/1?cid=dHNvY2lldHkuaW9fNWo4dTlqdGYxbzFpZG9yanZtZzVyb29mMm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). 80% attendance is mandatory and please inform us *before* class when you are not attending a lecture through a private message on Slack. In case you do not meet the attendance requirement, you are not eligable for the course certificate.
 
+For communication related to the course, we are using [Slack](https://tstudents-rotterdam.slack.com/). If you have not done so already, please register your account and check out the channels. On Slack you can talk to the staff behind the course and to your fellow students in either the (public) group chat or using direct (private) messages.
+
 ### Teaching Philosphy
 At Turing Society, we believe in the power of diversity. People are unique and the best results are obtained by combining different insights and approaches. Therefore, all our courses are open to everyone; it does not matter whether you are a bachelor student, master student, working professional or in a transition period.
 
