@@ -10,13 +10,15 @@ There are lectures on **Tuesdays** and **Thursdays** from **18.00** until **20.0
 ### Teaching Philosphy
 At Turing Society, we believe in the power of diversity. People are unique and the best results are obtained by combining different insights and approaches. Therefore, all our courses are open to everyone; it does not matter whether you are a bachelor student, master student, working professional or in a transition period.
 
-Furthermore, we believe learning is most effective when you *learn together*. The focus should be on *learning by doing*, by *explaining to your fellow students* and by *means of discussion*. You will see that the journey becomes a lot more enjoyable when you go through it together! In fact, all our staff is helping on voluntary basis because we love learning with you guys.
+Furthermore, we believe learning is most effective when you *learn together*. The focus should be on *learning by doing*, *learning by explaining concepts and solutions to your fellow students* and *learning by means of discussion*. You will see that the journey becomes a lot more enjoyable when you go through it together! In fact, all our staff is helping on voluntary basis because we love learning with you guys.
+
+Please interrupt the course at any moment when you have questions, suggestions or feedback. We are always looking to improve our courses and need you help with this. If you prefer providing your input over other channels, feel free to do this as well. It does not matter who at Turing Students Rotterdam you approach, we all want to hear your ideas and hope to use these to improve the quality of our courses and events.
 
 ### Rules
 Next to the attendance requirements, we have to set some rules in order to efficiently facilitate learning. There are homework assignments that have to be completed to a sufficient standard to pass the course. If you ever have questions, feel free to reach out to your fellow students or to us over Slack. Note that homework *may* be done in collaboration (in fact, we highly encourage it). However, copying homework is *strictly forbidden*. The goal of this course is for you to improve your coding skills. Copying material from other students is a waste of both your time and our time. Please hand in assignments later and ask questions when you get stuck. We are here to help you.
 
-## Session 1
 
+## Session 1
 ### Material Covered
 - Introduction to the R Programming Language
 - Programming Environments
