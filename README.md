@@ -21,6 +21,8 @@ Next to the attendance requirements, we have to set some rules in order to effic
 
 
 ## Session 1
+In session 1, we dive into the core building blocks of programming languages and learn the corresponding syntax in R. The Google colab notebook for this lecture can be found [here](https://colab.research.google.com/drive/1iJjLO2VvS583ZTOCs2IMy_0bkZpMDSTO).
+
 ### Material Covered
 - Introduction to the R Programming Language
 - Programming Environments
