@@ -21,7 +21,7 @@ Next to the attendance requirements, we have to set some rules in order to effic
 
 
 ## Session 1
-In session 1, we dive into the core building blocks of programming languages and learn the corresponding syntax in R. The Google colab notebook for this lecture can be found [here](https://colab.research.google.com/drive/1iJjLO2VvS583ZTOCs2IMy_0bkZpMDSTO) and the slides can be downloaded [here](https://github.com/Mathijs995/R-for-Data-Science/blob/master/R%20for%20Data%20Science%20-%20Lecture%201.pdf).
+In session 1, we dive into the core building blocks of programming languages and learn the corresponding syntax in R. The Google colab notebook for this lecture can be found [here](https://colab.research.google.com/drive/1iJjLO2VvS583ZTOCs2IMy_0bkZpMDSTO) and the slides can be downloaded [here](https://github.com/Mathijs995/R-for-Data-Science/raw/master/R%20for%20Data%20Science%20-%20Lecture%201.pdf).
 
 ### Material Covered
 - Introduction to the R Programming Language
