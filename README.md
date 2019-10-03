@@ -35,5 +35,5 @@ In session 1, we dive into the core building blocks of programming languages and
   - Data structures
   - Control flow
 
-### Homework - Due Tuesday 27 October before class
-- Read Sections 1, 2, 3.1 - 3.4 in the lecture 1 notebook
+### Homework
+Please read Sections 1, 2, 3.1 - 3.4 in the lecture 1 notebook before the next session, that is, before Tuesday 7 October 18.00.
