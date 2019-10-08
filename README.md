@@ -56,4 +56,4 @@ Last sessiom covered the reasons why data analytics skills are becoming more val
     - Subsetting and assignment
 
 ### Homework
-TBA
+Please read finish reading the session's notebook and read Section 1 of the notebook of session 2 before the next session, that is, before Thursday 9 October 18.00.
