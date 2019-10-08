@@ -31,9 +31,29 @@ In session 1, we dive into the core building blocks of programming languages and
   - Workspaces and files
   - Data Types
   - Operators
-- High level overview
-  - Data structures
-  - Control flow
 
 ### Homework
 Please read Sections 1, 2, 3.1 - 3.4 in the lecture 1 notebook before the next session, that is, before Tuesday 7 October 18.00.
+
+## Session 2
+Last sessiom covered the reasons why data analytics skills are becoming more valuable, the reasons to learn R and the core fundamentals of R. Session 2 continues with collections of variables and subsetting. The Google colab notebook for this lecture can be found [here](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof).
+
+### Material Covered
+- Data structures
+    - Vectors
+      - Atomic vectors
+      - Lists
+    - Attributes
+    - Matrices and arrays
+    - Data frames
+  - Subsetting
+    - Data structures
+      - Atomic vectors
+      - Lists
+      - Matrices and arrays
+      - Data frames
+    - Subsetting operators
+    - Subsetting and assignment
+
+### Homework
+TBA
