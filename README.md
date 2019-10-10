@@ -36,7 +36,7 @@ In session 1, we dive into the core building blocks of programming languages and
 Please read Sections 1, 2, 3.1 - 3.4 in the lecture 1 notebook before the next session, that is, before Tuesday 7 October 18.00.
 
 ## Session 2
-Last sessiom covered the reasons why data analytics skills are becoming more valuable, the reasons to learn R and the core fundamentals of R. Session 2 continues with collections of variables and subsetting. The Google colab notebook for this lecture can be found [here](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof).
+Last session covered the reasons why data analytics skills are becoming more valuable, the reasons to learn R and the core fundamentals of R. Session 2 continues with collections of variables and subsetting. The Google colab notebook for this lecture can be found [here](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof).
 
 ### Material Covered
 - Data structures
@@ -46,7 +46,15 @@ Last sessiom covered the reasons why data analytics skills are becoming more val
     - Attributes
     - Matrices and arrays
     - Data frames
-  - Subsetting
+
+### Homework
+Please read finish reading the session's notebook and read Section 1 of the notebook of session 2 before the next session, that is, before Thursday 9 October 18.00.
+
+## Session 3
+Last session, we dived into the data structures available in R. This session we continue with subsetting and controlling the flow of our code. The Google colab notebook for this lecture can be found [here](https://colab.research.google.com/drive/1FQICEcnG3o-rVtM8b67f7PgwccGqGBln).
+
+### Material Covered
+- Subsetting
     - Data structures
       - Atomic vectors
       - Lists
@@ -54,6 +62,9 @@ Last sessiom covered the reasons why data analytics skills are becoming more val
       - Data frames
     - Subsetting operators
     - Subsetting and assignment
-
+- Control flow
+  - Conditional statements
+  - Loops
+  
 ### Homework
-Please read finish reading the session's notebook and read Section 1 of the notebook of session 2 before the next session, that is, before Thursday 9 October 18.00.
+TBA
