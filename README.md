@@ -48,7 +48,7 @@ Last session covered the reasons why data analytics skills are becoming more val
     - Data frames
 
 ### Homework
-Please read finish reading the session's notebook and read Section 1 of the notebook of session 2 before the next session, that is, before Thursday 9 October 18.00.
+Please finish reading the session's notebook and read Section 1 of the notebook of session 2 before the next session, that is, before Thursday 9 October 18.00.
 
 ## Session 3
 Last session, we dived into the data structures available in R. This session we continue with subsetting and controlling the flow of our code. The Google colab notebook for this lecture can be found [here](https://colab.research.google.com/drive/1FQICEcnG3o-rVtM8b67f7PgwccGqGBln).
@@ -67,4 +67,4 @@ Last session, we dived into the data structures available in R. This session we 
   - Loops
   
 ### Homework
-TBA
+Finish reading the notebook of the second and the notebook of the third session and try to solve as many questions as possible in the notebooks. Please do not spend more than two hours this week trying to solve the exercises. The exercises are good practice for coding in general but not essential for doing data analytics.
