@@ -21,7 +21,7 @@ Next to the attendance requirements, we have to set some rules in order to effic
 
 
 ## Session 1
-In session 1, we dive into the core building blocks of programming languages and learn the corresponding syntax in R. The Google colab notebook for this lecture can be found [here](https://colab.research.google.com/drive/1iJjLO2VvS583ZTOCs2IMy_0bkZpMDSTO) and the slides can be downloaded [here](https://github.com/Mathijs995/R-for-Data-Science/raw/master/R%20for%20Data%20Science%20-%20Lecture%201.pdf).
+Session 1 covers the core building blocks of programming languages and the corresponding syntax in R. The Google colab notebook [Week 1 - Lecture 1.1](https://colab.research.google.com/drive/1iJjLO2VvS583ZTOCs2IMy_0bkZpMDSTO) is used in this session. Additionally, the slides for the introduction of the course can be downloaded [here](https://github.com/Mathijs995/R-for-Data-Science/raw/master/R%20for%20Data%20Science%20-%20Lecture%201.pdf).
 
 ### Material Covered
 - Introduction to the R Programming Language
@@ -33,10 +33,11 @@ In session 1, we dive into the core building blocks of programming languages and
   - Operators
 
 ### Homework
-Please read Sections 1, 2, 3.1 - 3.4 in the lecture 1 notebook before the next session, that is, before Tuesday 7 October 18.00.
+#### Due date: Tuesday 7 October 18.00
+*Readings:* Sections 1, 2, 3.1 - 3.4 in the [Week 1 - Lecture 1.1](https://colab.research.google.com/drive/1iJjLO2VvS583ZTOCs2IMy_0bkZpMDSTO) notebook.
 
 ## Session 2
-Last session covered the reasons why data analytics skills are becoming more valuable, the reasons to learn R and the core fundamentals of R. Session 2 continues with collections of variables and subsetting. The Google colab notebook for this lecture can be found [here](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof).
+Session 1 covered the reasons why data analytics skills are becoming more valuable, the reasons to learn R and the core fundamentals of R. Session 2 continues with collections of variables and subsetting. The following Google Colab notebook is used for this session: [Week 2 - Lecture 2.1](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof).
 
 ### Material Covered
 - Data structures
@@ -48,10 +49,11 @@ Last session covered the reasons why data analytics skills are becoming more val
     - Data frames
 
 ### Homework
-Please finish reading the session's notebook and read Section 1 of the notebook of session 2 before the next session, that is, before Thursday 9 October 18.00.
+#### Due date: Thursday 9 October 18.00
+*Readings:* Section 3.5 in the [Week 1 - Lecture 1.1](https://colab.research.google.com/drive/1iJjLO2VvS583ZTOCs2IMy_0bkZpMDSTO) notebook and Section 1 of the [Week 2 - Lecture 2.1](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof) notebook.
 
 ## Session 3
-Last session, we dived into the data structures available in R. This session we continue with subsetting and controlling the flow of our code. The Google colab notebook for this lecture can be found [here](https://colab.research.google.com/drive/1FQICEcnG3o-rVtM8b67f7PgwccGqGBln).
+Session 2 covered data structures and sessions 3 continues with subsetting and controlling the flow of our code. The Google colab notebook for this lecture can be found: [Week 2 - Lecture 2.2](https://colab.research.google.com/drive/1FQICEcnG3o-rVtM8b67f7PgwccGqGBln).
 
 ### Material Covered
 - Subsetting
@@ -67,4 +69,7 @@ Last session, we dived into the data structures available in R. This session we 
   - Loops
   
 ### Homework
-Finish reading the notebook of the second and the notebook of the third session and try to solve as many questions as possible in the notebooks. Please do not spend more than two hours this week trying to solve the exercises. The exercises are good practice for coding in general but not essential for doing data analytics.
+#### Due date: Tuesday 14 October 18.00
+*Readings:* Section 2 of the [Week 2 - Lecture 2.1](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof) notebook and the [Week 2 - Lecture 2.2](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof) notebook.
+
+*Note:* Try to solve as many questions as possible in the notebooks. Please do not spend more than two hours this week trying to solve the exercises. The exercises are good practice for coding in general but not essential for doing data analytics.
