@@ -79,26 +79,26 @@ Session 4 covers RStudio, functions, packages and the apply family. The Google c
 
 ### Material Covered
 - RStudio
-  - Functions
-    - Function Definition
-    - Built-in Functions
-    - User-defined Functions
-    - Arguments with default values
-    - Ellipsis argument
-    - Functions - best practices
-  - Packages
-    - R Packages
-    - Repositories
-    - How to Install a R Package
-    - Updating, Removing and Checking Installed Packages
-    - Loading Packages
-    - Choosing the Right R Package
-  - Apply family
-    - The apply() Function
-    - The lapply() Function
-    - The sapply() Function
-    - The rep() Function
-    - The mapply() Function
+- Functions
+  - Function Definition
+  - Built-in Functions
+  - User-defined Functions
+  - Arguments with default values
+  - Ellipsis argument
+  - Functions - best practices
+- Packages
+  - R Packages
+  - Repositories
+  - How to Install a R Package
+  - Updating, Removing and Checking Installed Packages
+  - Loading Packages
+  - Choosing the Right R Package
+- Apply family
+  - The apply() Function
+  - The lapply() Function
+  - The sapply() Function
+  - The rep() Function
+  - The mapply() Function
   
 ### Homework
 #### Due date: Thursday 16 October 18.00
