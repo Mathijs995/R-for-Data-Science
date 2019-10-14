@@ -20,7 +20,7 @@ Please interrupt the course at any moment when you have questions, suggestions o
 Next to the attendance requirements, we have to set some rules in order to efficiently facilitate learning. There are homework assignments that have to be completed to a sufficient standard to pass the course. If you ever have questions, feel free to reach out to your fellow students or to us over Slack. Note that homework *may* be done in collaboration (in fact, we highly encourage it). However, copying homework is *strictly forbidden*. The goal of this course is for you to improve your coding skills. Copying material from other students is a waste of both your time and our time. Please hand in assignments later and ask questions when you get stuck instead of copying solutions. We are here to help you and do not have any incentives to act otherwise.
 
 
-## Session 1
+## Session 1 - Thursday 3 October
 Session 1 covers the core building blocks of programming languages and the corresponding syntax in R. The Google colab notebook [Week 1 - Lecture 1.1](https://colab.research.google.com/drive/1iJjLO2VvS583ZTOCs2IMy_0bkZpMDSTO) is used in this session. Additionally, the slides for the introduction of the course can be downloaded [here](https://github.com/Mathijs995/R-for-Data-Science/raw/master/R%20for%20Data%20Science%20-%20Lecture%201.pdf).
 
 ### Material Covered
@@ -33,10 +33,10 @@ Session 1 covers the core building blocks of programming languages and the corre
   - Operators
 
 ### Homework
-#### Due date: Tuesday 7 October 18.00
+#### Due date: Tuesday 8 October 18.00
 *Readings:* Sections 1, 2, 3.1 - 3.4 in the [Week 1 - Lecture 1.1](https://colab.research.google.com/drive/1iJjLO2VvS583ZTOCs2IMy_0bkZpMDSTO) notebook.
 
-## Session 2
+## Session 2 - Tuesday 8 October
 Session 1 covered the reasons why data analytics skills are becoming more valuable, the reasons to learn R and the core fundamentals of R. Session 2 continues with collections of variables and subsetting. The following Google Colab notebook is used for this session: [Week 2 - Lecture 2.1](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof).
 
 ### Material Covered
@@ -49,11 +49,11 @@ Session 1 covered the reasons why data analytics skills are becoming more valuab
     - Data frames
 
 ### Homework
-#### Due date: Thursday 9 October 18.00
+#### Due date: Thursday 10 October 18.00
 *Readings:* Section 3.5 in the [Week 1 - Lecture 1.1](https://colab.research.google.com/drive/1iJjLO2VvS583ZTOCs2IMy_0bkZpMDSTO) notebook and Section 1 of the [Week 2 - Lecture 2.1](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof) notebook.
 
-## Session 3
-Session 2 covered data structures and sessions 3 continues with subsetting and controlling the flow of our code. The Google colab notebook for this lecture can be found: [Week 2 - Lecture 2.2](https://colab.research.google.com/drive/1FQICEcnG3o-rVtM8b67f7PgwccGqGBln).
+## Session 3 - Thursday 10 October
+Session 2 covered data structures and sessions 3 continues with subsetting and controlling the flow of our code. The Google colab notebook for this lecture is [Week 2 - Lecture 2.2](https://colab.research.google.com/drive/1FQICEcnG3o-rVtM8b67f7PgwccGqGBln).
 
 ### Material Covered
 - Subsetting
@@ -73,3 +73,33 @@ Session 2 covered data structures and sessions 3 continues with subsetting and c
 *Readings:* Section 2 of the [Week 2 - Lecture 2.1](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof) notebook and the [Week 2 - Lecture 2.2](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof) notebook.
 
 *Note:* Try to solve as many questions as possible in the notebooks. Please do not spend more than two hours this week trying to solve the exercises. The exercises are good practice for coding in general but not essential for doing data analytics.
+
+## Session 4 - Thursday 10 October
+Session 4 covers RStudio, functions, packages and the apply family. The Google colab notebook for this lecture is [Week 3 - Lecture 3.1](https://colab.research.google.com/drive/1R9FuON0gUEIGEhuMNAV4B4ZvZHne7thK).
+
+### Material Covered
+- RStudio
+  - Functions
+    - Function Definition
+    - Built-in Functions
+    - User-defined Functions
+    - Arguments with default values
+    - Ellipsis argument
+    - Functions - best practices
+  - Packages
+    - R Packages
+    - Repositories
+    - How to Install a R Package
+    - Updating, Removing and Checking Installed Packages
+    - Loading Packages
+    - Choosing the Right R Package
+  - Apply family
+    - The apply() Function
+    - The lapply() Function
+    - The sapply() Function
+    - The rep() Function
+    - The mapply() Function
+  
+### Homework
+#### Due date: Thursday 16 October 18.00
+TBA
