@@ -70,7 +70,7 @@ Session 2 covered data structures and sessions 3 continues with subsetting and c
   
 ### Homework
 #### Due date: Tuesday 14 October 18.00
-*Readings:* Section 2 of the [Week 2 - Lecture 2.1](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof) notebook and the [Week 2 - Lecture 2.2](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof) notebook.
+*Readings:* Section 2 of the [Week 2 - Lecture 2.1](https://colab.research.google.com/drive/1lzvpTw5DVR4-ekCxd9_tn0F0e9QncSof) notebook and the [Week 2 - Lecture 2.2](https://colab.research.google.com/drive/1FQICEcnG3o-rVtM8b67f7PgwccGqGBln) notebook.
 
 *Note:* Try to solve as many questions as possible in the notebooks. Please do not spend more than two hours this week trying to solve the exercises. The exercises are good practice for coding in general but not essential for doing data analytics.
 
