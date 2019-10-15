@@ -102,6 +102,6 @@ Session 4 covers RStudio, functions, packages and the apply family. The Google c
   
 ### Homework
 #### Due date: Tuesday 28 October 18.00
-*Readings:* Week 3 - Lecture 3.1 notebook (https://colab.research.google.com/drive/1R9FuON0gUEIGEhuMNAV4B4ZvZHne7thK)
+*Readings:* [Week 3 - Lecture 3.1 notebook](https://colab.research.google.com/drive/1R9FuON0gUEIGEhuMNAV4B4ZvZHne7thK)
 
 *Note:* Try to solve as many questions as you can in the notebook, Please do *not* spend more than two hours to solve the questions. Again, the exercises are good practice but not essential for data science in general.
