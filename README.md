@@ -74,7 +74,7 @@ Session 2 covered data structures and sessions 3 continues with subsetting and c
 
 *Note:* Try to solve as many questions as possible in the notebooks. Please do not spend more than two hours this week trying to solve the exercises. The exercises are good practice for coding in general but not essential for doing data analytics.
 
-## Session 4 - Thursday 10 October
+## Session 4 - Tuesday 15 October
 Session 4 covers RStudio, functions, packages and the apply family. The Google colab notebook for this lecture is [Week 3 - Lecture 3.1](https://colab.research.google.com/drive/1R9FuON0gUEIGEhuMNAV4B4ZvZHne7thK).
 
 ### Material Covered
@@ -105,3 +105,13 @@ Session 4 covers RStudio, functions, packages and the apply family. The Google c
 *Readings:* [Week 3 - Lecture 3.1 notebook](https://colab.research.google.com/drive/1R9FuON0gUEIGEhuMNAV4B4ZvZHne7thK)
 
 *Note:* Try to solve as many questions as you can in the notebook, Please do *not* spend more than two hours to solve the questions. Again, the exercises are good practice but not essential for data science in general.
+
+## Session 5 - Thursday 17 October
+What better way to start with data science than to start with plotting? In this session, we go over ggplot2, the most popular package for plotting in R. The Google colab notebook for this lecture is [Week 3 - Lecture 3.2](https://colab.research.google.com/drive/1ZTBm6aG4gozuBgr-m2v5ZDsWH3banj9h).
+
+### Material Covered
+- ggplot2
+  
+### Homework
+#### Due date: Tuesday 28 October 18.00
+*Readings:* [Week 3 - Lecture 3.2 notebook](https://colab.research.google.com/drive/1ZTBm6aG4gozuBgr-m2v5ZDsWH3banj9h)
