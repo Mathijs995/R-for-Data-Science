@@ -115,3 +115,15 @@ What better way to start with data science than to start with plotting? In this 
 ### Homework
 #### Due date: Tuesday 28 October 18.00
 *Readings:* [Week 3 - Lecture 3.2 notebook](https://colab.research.google.com/drive/1ZTBm6aG4gozuBgr-m2v5ZDsWH3banj9h)
+
+## Session 6 - Tuesday 22 October
+The Google colab notebook for this lecture is [Week 4 - Lecture 4.1](https://colab.research.google.com/drive/1am1CUGg1n4i187RwTyv0KUL4d5s0N1gf).
+
+### Material Covered
+- Exploratory Data Analysis
+- Rule-Based Learning
+- (Decision Trees)
+  
+### Homework
+#### Due date: Tuesday 28 October 18.00
+TBA
