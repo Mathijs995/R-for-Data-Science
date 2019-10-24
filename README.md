@@ -127,3 +127,14 @@ The Google colab notebook for this lecture is [Week 4 - Lecture 4.1](https://col
 ### Homework
 #### Due date: Tuesday 28 October 18.00
 TBA
+
+## Session 7 - Thursday 24 October
+The Google colab notebook for this lecture is [Week 4 - Lecture 4.2](https://colab.research.google.com/drive/1_btbFkCvG1uNptt_m9IF22L_-M_M1kv_).
+
+### Material Covered
+- Decision Trees
+- $k$-means
+- Naive Bayes Classifier
+  
+### Homework
+#### Due date: Tuesday 28 October 18.00
