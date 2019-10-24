@@ -133,7 +133,7 @@ The Google colab notebook for this lecture is [Week 4 - Lecture 4.2](https://col
 
 ### Material Covered
 - Decision Trees
-- $k$-means
+- k-means
 - Naive Bayes Classifier
   
 ### Homework
