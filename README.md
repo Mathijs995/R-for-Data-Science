@@ -141,7 +141,7 @@ The Google colab notebook for this lecture is [Week 4 - Lecture 4.2](https://col
 [Week 4 - Lecture 4.2](https://colab.research.google.com/drive/1_btbFkCvG1uNptt_m9IF22L_-M_M1kv_)
 
 ## Session 8 - Tuesday 28 October
-The presentation for this lecture is [R for Data Science - Introduction to Data Analytics].
+The presentation for this lecture is [R for Data Science - Analytics Presentation](https://github.com/Mathijs995/R-for-Data-Science/raw/master/R%20for%20Data%20Science%20-%20Analytics%20Presentation.pdf).
 
 ### Material Covered
 - Overview of AI and Machine Learning
