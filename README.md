@@ -126,7 +126,7 @@ The Google colab notebook for this lecture is [Week 4 - Lecture 4.1](https://col
   
 ### Homework
 #### Due date: Tuesday 28 October 18.00
-TBA
+*Readings:* [Week 4 - Lecture 4.1](https://colab.research.google.com/drive/1am1CUGg1n4i187RwTyv0KUL4d5s0N1gf)
 
 ## Session 7 - Thursday 24 October
 The Google colab notebook for this lecture is [Week 4 - Lecture 4.2](https://colab.research.google.com/drive/1_btbFkCvG1uNptt_m9IF22L_-M_M1kv_).
@@ -137,4 +137,15 @@ The Google colab notebook for this lecture is [Week 4 - Lecture 4.2](https://col
 - Naive Bayes Classifier
   
 ### Homework
-#### Due date: Tuesday 28 October 18.00
+#### Due date: Thursday 31 October 18.00
+[Week 4 - Lecture 4.2](https://colab.research.google.com/drive/1_btbFkCvG1uNptt_m9IF22L_-M_M1kv_)
+
+## Session 8 - Tuesday 28 October
+The presentation for this lecture is [R for Data Science - Introduction to Data Analytics].
+
+### Material Covered
+- Overview of AI and Machine Learning
+- Introduction to Regression Analysis
+  
+### Homework
+No homework.
