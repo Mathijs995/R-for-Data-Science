@@ -101,7 +101,7 @@ Session 4 covers RStudio, functions, packages and the apply family. The Google c
   - The mapply() Function
   
 ### Homework
-#### Due date: Tuesday 28 October 18.00
+#### Due date: Tuesday 29 October 18.00
 *Readings:* [Week 3 - Lecture 3.1 notebook](https://colab.research.google.com/drive/1R9FuON0gUEIGEhuMNAV4B4ZvZHne7thK)
 
 *Note:* Try to solve as many questions as you can in the notebook, Please do *not* spend more than two hours to solve the questions. Again, the exercises are good practice but not essential for data science in general.
@@ -113,7 +113,7 @@ What better way to start with data science than to start with plotting? In this 
 - ggplot2
   
 ### Homework
-#### Due date: Tuesday 28 October 18.00
+#### Due date: Tuesday 29 October 18.00
 *Readings:* [Week 3 - Lecture 3.2 notebook](https://colab.research.google.com/drive/1ZTBm6aG4gozuBgr-m2v5ZDsWH3banj9h)
 
 ## Session 6 - Tuesday 22 October
@@ -125,7 +125,7 @@ The Google colab notebook for this lecture is [Week 4 - Lecture 4.1](https://col
 - (Decision Trees)
   
 ### Homework
-#### Due date: Tuesday 28 October 18.00
+#### Due date: Tuesday 29 October 18.00
 *Readings:* [Week 4 - Lecture 4.1](https://colab.research.google.com/drive/1am1CUGg1n4i187RwTyv0KUL4d5s0N1gf)
 
 ## Session 7 - Thursday 24 October
@@ -140,7 +140,7 @@ The Google colab notebook for this lecture is [Week 4 - Lecture 4.2](https://col
 #### Due date: Thursday 31 October 18.00
 *Readings:* [Week 4 - Lecture 4.2](https://colab.research.google.com/drive/1_btbFkCvG1uNptt_m9IF22L_-M_M1kv_)
 
-## Session 8 - Tuesday 28 October
+## Session 8 - Tuesday 29 October
 The presentation for this lecture is [R for Data Science - Analytics Presentation](https://github.com/Mathijs995/R-for-Data-Science/raw/master/R%20for%20Data%20Science%20-%20Analytics%20Presentation.pdf).
 
 ### Material Covered
@@ -149,3 +149,10 @@ The presentation for this lecture is [R for Data Science - Analytics Presentatio
   
 ### Homework
 No homework.
+
+## Session 9 - Thursday 31 October
+The last session before the final case is dedicated to work on the [R for Data Science - Analytics Presentation](https://github.com/Mathijs995/R-for-Data-Science/raw/master/R%20for%20Data%20Science%20-%20Analytics%20Presentation.pdf).
+
+### Homework
+#### Due date: Tuesday 19 November 23.59
+*Hand in:* [R for Data Science - Analytics Presentation](https://github.com/Mathijs995/R-for-Data-Science/raw/master/R%20for%20Data%20Science%20-%20Analytics%20Presentation.pdf). Note that you are allowed to hand in the challenge individually or in pairs. Also, feel free to collaborate but *do not* copy solutions.
