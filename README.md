@@ -151,8 +151,8 @@ The presentation for this lecture is [R for Data Science - Analytics Presentatio
 No homework.
 
 ## Session 9 - Thursday 31 October
-The last session before the final case is dedicated to work on the [R for Data Science - Analytics Presentation](https://github.com/Mathijs995/R-for-Data-Science/raw/master/R%20for%20Data%20Science%20-%20Analytics%20Presentation.pdf).
+The last session before the final case is dedicated to work on the [R for Data Science - Homework Challenge](https://drive.google.com/open?id=1_btbFkCvG1uNptt_m9IF22L_-M_M1kv_).
 
 ### Homework
 #### Due date: Tuesday 19 November 23.59
-*Hand in:* [R for Data Science - Analytics Presentation](https://github.com/Mathijs995/R-for-Data-Science/raw/master/R%20for%20Data%20Science%20-%20Analytics%20Presentation.pdf). Note that you are allowed to hand in the challenge individually or in pairs. Also, feel free to collaborate but *do not* copy solutions.
+*Hand in:* [R for Data Science - Homework Challenge](https://drive.google.com/open?id=1_btbFkCvG1uNptt_m9IF22L_-M_M1kv_). Note that you are allowed to hand in the challenge individually or in pairs. Feel free to collaborate but *do not* copy solutions.
