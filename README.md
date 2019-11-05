@@ -156,3 +156,10 @@ The last session before the final case is dedicated to work on the [R for Data S
 ### Homework
 #### Due date: Sunday 17 November 23.59
 *Hand in:* [R for Data Science - Homework Challenge](https://colab.research.google.com/drive/1_btbFkCvG1uNptt_m9IF22L_-M_M1kv_). Note that you are allowed to hand in the challenge individually or in pairs. Feel free to collaborate but *do not* copy solutions.
+
+## Session 10 - Tuesday 5 November
+Time to put your skills to test and work on the challenge in collaboration with [Cognizant](cognizant.com)! Here is the link to the first notebook: [R for Data Science - Cognizant Case - Session 1](https://colab.research.google.com/drive/1tSd1DsHLK11ijuv4HPrjeWMSo1nHl0wX).
+
+### Homework
+#### Due date: Thursday 7 November
+Attempt to solve the challenges in the final case notebook [R for Data Science - Cognizant Case - Session 1](https://colab.research.google.com/drive/1tSd1DsHLK11ijuv4HPrjeWMSo1nHl0wX). Please try your best to solve the problems and focus on how you should go about solving the problems. Do not worry to much if you get stuck with certain parts of the assignment.
