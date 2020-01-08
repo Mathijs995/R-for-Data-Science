@@ -163,3 +163,10 @@ Time to put your skills to test and work on the challenge in collaboration with 
 ### Homework
 #### Due date: Thursday 7 November
 Attempt to solve the challenges in the final case notebook [R for Data Science - Cognizant Case - Session 1](https://colab.research.google.com/drive/1tSd1DsHLK11ijuv4HPrjeWMSo1nHl0wX). Please try your best to solve the problems and focus on how you should go about solving the problems. Do not worry to much if you get stuck with certain parts of the assignment.
+
+## Session 11 - Thusrday 7 November
+Now that the basis has been set, we can continue by deploying models to gain insights from our data. Here is the link to the second notebook: [R for Data Science - Cognizant Case - Session 2](https://colab.research.google.com/drive/1vlzOjxD4LDXaSWd0AsSF4v0-6zRH8Hdr).
+
+### Homework
+#### Due date: Sunday 17 November
+Attempt to solve the challenges in the final case notebook [R for Data Science - Cognizant Case - Session 2](https://colab.research.google.com/drive/1vlzOjxD4LDXaSWd0AsSF4v0-6zRH8Hdr). Please try your best to solve the problems and focus on how you should go about solving the problems. Do not worry to much if you get stuck with certain parts of the assignment.
